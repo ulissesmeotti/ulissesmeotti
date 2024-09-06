@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I study at the Federal University of Paraná.<br>🎯 Passionate about technology and<br>Always seeking new challenges.<br>💻Front-End Developer and Support Analyst</p>
+<p align="left">📚 I study at the Federal University of Paraná.<br>🎯 Passionate about technology and Always seeking new challenges.<br>💻Front-End Developer and Support Analyst</p>
 
 ###
 
