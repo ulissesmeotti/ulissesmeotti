@@ -33,5 +33,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
+###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ulissesmeotti&layout=compact&langs_count=10&theme=dracula" alt="Top Languages" />
+</div>
 ###
